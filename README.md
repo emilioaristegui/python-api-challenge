@@ -12,7 +12,7 @@ VacationPy.ipynb.
 WeatherPy.ipynb.
 README.md: This file, providing an overview of the project and instructions for usage.
 
-## Part 1: WeatherPy" are the following
+## Part 1: WeatherPy (Requirements)
 - Create Plots to Showcase the Relationship Between Weather Variables and Latitude.
 - Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code. 
 - Create a scatter plot to showcase the relationship between Latitude vs. Temperature. 
@@ -29,7 +29,7 @@ README.md: This file, providing an overview of the project and instructions for 
 - Linear regression scatter plot for Northern Hemisphere: Wind Speed (m/s) vs. Latitude. 
 - Linear regression scatter plot for Southern Hemisphere: Wind Speed (m/s) vs. Latitude. 
 
-## Part 2: VacationPy" are the following
+## Part 2: VacationPy (Requirements)
 - Create a map that displays a point for every city in the city_data_df DataFrame. 
 - Narrow down the city_data_df DataFrame to find your ideal weather condition.
 - For each city in the hotel_df DataFrame, use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates. 
